@@ -1,4 +1,4 @@
-# FSD2A
+# loc8r
 Navigate to the folder in cmd and run npm run dev.
 
 This will start a nodemon in development environment.
